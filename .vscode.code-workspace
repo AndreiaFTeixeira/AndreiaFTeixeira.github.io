@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".vscode"
+		},
+		{
+			"path": "multimédia"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "multimédia"
+	}
+}
